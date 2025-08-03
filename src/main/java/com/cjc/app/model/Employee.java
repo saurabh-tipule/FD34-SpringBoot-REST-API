@@ -9,6 +9,12 @@ import javax.persistence.OneToOne;
 @Entity
 public class Employee {
 
+
+
+public void m1(){
+
+
+}
 	@Id
 	private int eid;
 
